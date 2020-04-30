@@ -1,7 +1,7 @@
 /* MAIN.JS */
 
 function changePic() {
-  document.getElementById("profilePic").src = "images/portfolio21.jpg";
+  document.getElementById("profilePic").src = "images/portfolio21new.jpg";
 }
 
 function normalPic() {
