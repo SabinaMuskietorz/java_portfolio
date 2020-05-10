@@ -1,11 +1,11 @@
 /* MAIN.JS */
 
 function changePic() {
-  document.getElementById("profilePic").src = "images/portfolio21new.jpg";
+  document.getElementById("profilePic").src = "portfolio21new.jpg";
 }
 
 function normalPic() {
-  document.getElementById("profilePic").src = "images/pic2.jpg";
+  document.getElementById("profilePic").src = "pic2.jpg";
 }
 
 
